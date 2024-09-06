@@ -22,5 +22,4 @@ A simple CRUD application built with React and Node.js to manage a list of produ
 - **PUT** `/items/:id` - Update an item by ID
 - **DELETE** `/items/:id` - Delete an item by ID
 
-## Project Structure
 
